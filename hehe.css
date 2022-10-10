@@ -1,0 +1,73 @@
+*{
+   margin: 20px auto;
+}
+body{
+    background-image: url(background.jpg);
+    /* không lập lại*/
+    background-repeat:no-repeat;
+    /* vừa khung hình*/
+    background-size: cover;
+    /* cố đinh background khi cuộn thanh di chuyển*/
+    background-attachment: fixed;
+    /* tạo khung*/
+    border: 5px solid #fff;
+    /*bo góc*/
+    border-radius: 20px;
+    width:950px;
+    height:600px;
+    
+}
+.gioithieu1{
+    border: 5px solid #fff;
+    border-radius: 20px;
+    width:750px;
+    height:150px;
+}
+.list_2{
+    border: 5px solid #fff;
+    border-radius: 20px;
+    width:750px;
+    height:250px;
+}
+h1{
+    color:#fff;
+    font-size:70px;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-top:-15px;
+}
+h2{
+    color:#fff;
+    font-size: 30px;
+    padding-left: 27%;
+    padding-right: 27%;
+}
+body nav ul{
+    float:left;
+}
+.menu{
+    border:5px solid #fff;
+    border-radius: 20px;
+    width: 750px;
+    height:100px;
+    margin-top: -5px;
+}
+article .list  img {
+    padding-left: 35px;
+    margin-top: -5px;
+}  
+
+.thongtin1 {
+    color:#fff;
+    border: 5px solid #fff;
+    
+    border-radius: 20px;
+    width: 750px;
+    height:250px;
+    font-size: 20px;
+}
+.danhsach{
+    float:left;
+    margin-top:-5px;
+}
+
